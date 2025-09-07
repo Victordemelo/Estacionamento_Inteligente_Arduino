@@ -12,6 +12,8 @@ O sistema utiliza **sensores ultrassônicos, LEDs RGB e servomotores**
 controlados por dois **Arduino UNO**, simulando a abertura de cancelas e a
 indicação de vagas disponíveis em tempo real.
 
+![Imagem da Maquete em Grupo](scr/main/arduino/fotos/Apresentacao_Unisul/foto_gp.jpeg)
+
 ------------------------------------------------------------------------
 
 ## ⚙️ Principais Desafios
